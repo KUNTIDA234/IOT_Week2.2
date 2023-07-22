@@ -1,0 +1,16 @@
+dependencies:
+  LED_class:
+    component_hash: c1558abf788050b6f14d97c29460a783f700b006fd13800a57fc372111d7d490
+    source:
+      git: https://github.com/KUNTIDA234/IOT_Week2
+      path: components/LED
+      type: git
+    version: b62cd897bd748bc8e938549dd73c967e708318d2
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.0.2
+manifest_hash: 158504a351d63caa1cf1550416b2ea067144004e3eaba64af2dd189f6696c3fc
+target: esp32
+version: 1.0.0
